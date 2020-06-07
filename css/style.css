@@ -1,0 +1,30 @@
+.navbar-brand{
+    font: 50px Arial;
+}
+
+body{
+    font: 20px Arial;
+}
+
+.navbar{
+    background-color: greenyellow;
+}
+
+.quem-somos{
+    background-color: lightgray;
+    color: teal;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#serviços{
+    background-color: seagreen;
+
+}
+
+.bg-footer{
+    background-color: lightgray;
+}
